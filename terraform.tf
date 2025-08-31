@@ -1,10 +1,10 @@
 terraform {
 
   cloud {
-    organization = "hermann_company"
+    organization = "jeaphtrains"
 
     workspaces {
-      name = "terraform-cloud-ec2"
+      name = "demo-repository"
     }
   }
 
